@@ -1,0 +1,25 @@
+ (3.5%) Spurningar
+1.	Hvað er leikjavél?
+Leikjavél er notuð til að keyra leik og er til mikill fjoldi af þeim i allskonar stærðum og gerðum, sumar eru gerðar fyrir einn leik en aðrar fyrir marga.
+2.	Útskýrðu e. GameLoop í Unity.
+fall sem er kallað a fyrir hvern nyjan frame
+3.	Hvað er e. asset? Nefndu algengar tegundir.
+asset er hlutur sem þu notar til að byggja upp leikinn þinn eins og kassi, canvas eða forrit
+4.	Hvað er e. game object og hvernig tengist það e. components í e. Inspector?
+game object er hlutur sem þu serð i leiknum og getur bætt við components i inspectorinum
+5.	Hvað er líkt og ólíkt með game object og e. prefab?
+Game object er einn hlutur inn i leiknum en prefab eru basically margir samstilltir game objects til að gera lifið lettara
+6.	Hvað er e. tags og e. layers?
+Tag er merkimiði sem þu setur a td game object til að flokka það og layer gerir svipað en á stærri skala og hefur meira functionality
+7.	Útskýrðu stuttlega hlutverk eftirfarandi glugga/svæði í Unity:
+
+i.	Scene view
+sja borðið og breyta til, aðal vinnusvæðið
+ii.	Game view
+serð borðið fra sjonarhorni spilarans (main camera)
+iii.	Project
+skoða moppur og allskonar hluti i leiknum
+iv.	Hierarchy
+listi yfir senur og alla hluti innan senunnar
+v.	Inspector
+sja allar mögulegar upplysingar um valinn hlut og getur breytt þvi
